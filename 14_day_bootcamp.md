@@ -3,16 +3,16 @@
 ## Week 1 – Programming Fundamentals
 
 ### Day 1
-[ ] Install Python, Git, VS Code
-[ ] Configure Git
-[ ] Create first Python file
-[ ] Run program successfully
-[ ] Push to GitHub
+[x ] Install Python, Git, VS Code
+[x] Configure Git
+[x] Create first Python file
+[x] Run program successfully
+[x ] Push to GitHub
 
 ### Day 2
-[ ] Learn conditionals (if, elif, else)
-[ ] Build simple medical decision script
-[ ] Push to GitHub
+[x ] Learn conditionals (if, elif, else)
+[x] Build simple medical decision script
+[x ] Push to GitHub
 
 ### Day 3
 [ ] Learn loops (for, while)
@@ -69,3 +69,4 @@
     Post-Op Follow-Up Console Assistant
 
 
+[ ] Install Python
