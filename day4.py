@@ -13,4 +13,4 @@ if len(pain_scores) > 0:
     average = total / len(pain_scores)
     print("Average pain score:", average)
 else:
-    print("No scores were entere
+    print("No scores were entered")
